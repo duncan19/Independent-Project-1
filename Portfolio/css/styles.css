@@ -1,6 +1,6 @@
 #picofme{
   width: 200px;
-  height: 278px;
+  height: 272px;
   float: left;
 }
 #Name{
@@ -15,4 +15,7 @@
   border: 5px solid green;
   padding: 5px;
   margin: 2px;
+}
+.container{
+  background-color: purple;
 }
