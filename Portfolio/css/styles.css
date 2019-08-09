@@ -2,7 +2,7 @@
   width: 200px;
   height: 272px;
   margin-right: 5px;
-
+  border-radius: 20px;
   float: left;
 }
 #Name{
