@@ -5,6 +5,7 @@
 }
 #Name{
   color: Red;
+  font-weight: bold; 
 }
 .bg-success .westwind{
   font-weight: bold;
