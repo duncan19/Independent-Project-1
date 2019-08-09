@@ -17,7 +17,7 @@ _This webpage documents my understanding of the information taught at Epicodus. 
 
 ## Known Bugs
 
-_{There are no current known bugs or issues_
+_There are no current known bugs or issues_
 
 ## Support and contact details
 
