@@ -1,6 +1,8 @@
 #picofme{
   width: 200px;
   height: 272px;
+  margin-right: 5px;
+  
   float: left;
 }
 #Name{
@@ -18,4 +20,11 @@
 }
 .container{
   background-color: grey;
+}
+#picofdog{
+width: 270px;
+height: 202px;
+-webkit-transform:rotate(90deg);
+float: right;
+border-radius: 200px;
 }
