@@ -3,3 +3,9 @@
   height: 278px;
   float: left;
 }
+#Name{
+  color: Red;
+}
+.bg-success .westwind{
+  font-weight: bold;
+}
