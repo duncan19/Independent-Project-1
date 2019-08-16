@@ -1,29 +1,34 @@
+#_Portfolio_
 
-Portfolio
+####_webpage document my progress in Epicodus so far, 8.9.19_
 
-webpage document my progress in Epicodus so far, 8.9.19
+####_By Duncan Robbins_
 
-By Duncan Robbins
+## Description
 
-Description
-This webpage documents my understanding of the information taught at Epicodus. It also provides information about me and how I grew up what previous jobs I had and why I chose Epicodus as a place to learn how to code. It also includes a recent picture of me near the top of the Webpage
+_This webpage documents my understanding of the information taught at Epicodus. It also provides information about me and how I grew up what previous jobs I had and why I chose Epicodus as a place to learn how to code. It also includes a recent picture of me near the top of the Webpage_
 
-Setup/Installation Requirements
-Clone This Repository
-Open the file
-Click on the HTML provided
-once on the website feel free to click on previous projects in order to open their repositories on github
-Known Bugs
-There are no current known bugs or issues
+## Setup/Installation Requirements
 
-Support and contact details
-if a bug occurs feel free to contact 503-819-4489 or email me at duncanrobbins19@gmail.com
+* _Clone This Repository_
+* _Open the file_
+* _Click on the HTML provided_
+* _once on the website feel free to click on previous projects in order to open their repositories on github_
 
-Technologies Used
-I used bootstrap, css, html, as well as the resources provided at Epicodus
+## Known Bugs
 
-License
-The software is licensed under the MIT license
+_There are no current known bugs or issues_
 
-Copyright (c) 2019 Duncan Robbins
+## Support and contact details
 
+_if a bug occurs feel free to contact 503-819-4489 or email me at duncanrobbins19@gmail.com_
+
+## Technologies Used
+
+_I used bootstrap, css, html, as well as the resources provided at Epicodus_
+
+### License
+
+*The software is licensed under the MIT license*
+
+Copyright (c) 2019 **_Duncan Robbins_**
