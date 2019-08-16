@@ -24,7 +24,7 @@ _There are no current known bugs or issues_
 _if a bug occurs feel free to contact 503-819-4489 or email me at duncanrobbins19@gmail.com_
 
 ## Gh-Pages
-_here is a link to the gh-pages for the site https://duncan19.github.io/Independent-Project-1/ _
+here is a link to the gh-pages for the site https://duncan19.github.io/Independent-Project-1/ 
 
 ## Technologies Used
 
