@@ -1,8 +1,8 @@
-#_Portfolio_
+_Portfolio_
 
-####_webpage document my progress in Epicodus so far, 8.9.19_
+_webpage document my progress in Epicodus so far, 8.9.19_
 
-####_By Duncan Robbins_
+_By Duncan Robbins_
 
 ## Description
 
